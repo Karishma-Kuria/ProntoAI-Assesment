@@ -1,4 +1,4 @@
-## This reo contains a script file which will run certain Git commands when provided with the local git repository path.
+## This repo contains a script file which will run certain Git commands when provided with the local git repository path.
 
 ### Clone the repo
 ```sh
